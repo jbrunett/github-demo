@@ -1,2 +1,2 @@
 # github-demo
-My first respository
+The first repsoitory I created in github.
